@@ -22,21 +22,26 @@ Once the project moves into development, the press release can be used as a touc
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  This app is for users who want to find the store which will give them the best prices.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
-
+  This product will aggregate prices from several stores based on CSV input. Stores often have certain items above market price, and others below, and it is difficult for customers to keep track of where to buy the item they want. When users determine which items they want to purchase, the app will recommend a store with the lowest overall cost. 
 ## Problem ##
   > Describe the problem your product solves.
+  This product will solve the problem in which buyers and sellers do not have complete market information.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  This product will allow stores to advertise their products while also saving money for consumers. 
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  For stores, simply upload a csv of your products with title, amount in stock, description, and price.
+  For customers, simply input the items which you wish to buy and what quantity.
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
